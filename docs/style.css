@@ -1,0 +1,21 @@
+div.title {
+  text-align: center;
+  font-size: xx-large;
+}
+div.viewfinder {
+  text-align: center;
+  display: inline-block;
+  padding: 3px solid white;
+  border: 3px solid black;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+
+div.viewfinder_wrapper {
+  display: block;
+  text-align: center;
+}
+
+div.result {
+  font-family: sans-serif;
+}
